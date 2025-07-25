@@ -30,7 +30,7 @@
 ### **2. GitHub Pages**
 Проект также доступен на GitHub Pages.
 Перейдите по ссылке:
-[**Демо на GitHub Pages**]()
+[**Демо на GitHub Pages**](https://mashchenko314.github.io/front-end-entrance-exam/)
 
 
 ---
